@@ -43,7 +43,7 @@ To run the application, navigate to the project directory and use the following 
 
 ```bash
 ruby challenge.rb
+```
 
 ## Java Version
 https://github.com/boubcr/token-processor-java
-
